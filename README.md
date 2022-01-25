@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[smironescu](https://smironescu.herokuapp.com/)
+- Web: [smironescu](https://smironescu.herokuapp.com/)
+- 📫 How to reach me: sergiu.mironescu@gmail.com
 
 <!--
 **xexiu/xexiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
