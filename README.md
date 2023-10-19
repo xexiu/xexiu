@@ -12,7 +12,7 @@
 
 I'm a passionate Full Stack Developer with expertise in a wide array of technologies, including JavaScript, HTML, CSS, Node.js, Python, React, React Native, Blockchain, WEB3, dApps, smart contracts, and more. My love for coding has led me to explore the exciting world of blockchain technology, where I've developed decentralized applications (dApps) harnessing the powerful capabilities of smart contracts. I'm always eager to learn and apply new technologies to create innovative solutions and meet the ever-evolving demands of the digital world.
 
-- Website: :globe_with_meridians: [smironescu](https://xexiu.netlify.app/)
+- Website: :globe_with_meridians: [xexiu.dev](https://xexiu.netlify.app/)
 - Email: 📫 sergiu.mironescu@gmail.com
 - Other GitHub accounts: :registered: https://github.com/smironescu
 
