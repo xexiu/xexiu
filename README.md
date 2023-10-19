@@ -6,8 +6,8 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/xexiu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://www.youtube.com/@smironescu?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCAgzqRPN6DBcoy8MxHGPETA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@smironescu">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCAgzqRPN6DBcoy8MxHGPETA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/xexiu">
+         <img src="https://komarev.com/ghpvc/?username=xexiu&style=for-the-badge">
    </p>
 
 I'm a passionate Full Stack Developer with expertise in a wide array of technologies, including JavaScript, HTML, CSS, Node.js, Python, React, React Native, Blockchain, WEB3, dApps, smart contracts, and more. My love for coding has led me to explore the exciting world of blockchain technology, where I've developed decentralized applications (dApps) harnessing the powerful capabilities of smart contracts. I'm always eager to learn and apply new technologies to create innovative solutions and meet the ever-evolving demands of the digital world.
