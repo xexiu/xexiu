@@ -36,6 +36,7 @@ I'm a passionate Full Stack Developer with expertise in a wide array of technolo
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/nextjs.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/nodejs.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/express.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/fc5a20b4a78b26efae69208268507eb943f3a8e3/python.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
