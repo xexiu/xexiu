@@ -1,6 +1,6 @@
 # Hello there 👋
 <p align="left">
-         <a href="https://github.com/FahimFBA?tab=followers">
+         <a href="https://github.com/xexiu?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/xexiu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/xexiu?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/xexiu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -12,14 +12,38 @@
 
 I'm a passionate Full Stack Developer with expertise in a wide array of technologies, including JavaScript, HTML, CSS, Node.js, Python, React, React Native, Blockchain, WEB3, dApps, smart contracts, and more. My love for coding has led me to explore the exciting world of blockchain technology, where I've developed decentralized applications (dApps) harnessing the powerful capabilities of smart contracts. I'm always eager to learn and apply new technologies to create innovative solutions and meet the ever-evolving demands of the digital world.
 
-- Web: [smironescu](https://xexiu.netlify.app/)
-- 📫 How to reach me: sergiu.mironescu@gmail.com
-- Other GitHub accounts: https://github.com/smironescu
+- Website: :globe_with_meridians: [smironescu](https://xexiu.netlify.app/)-
+- Email: 📫 sergiu.mironescu@gmail.com
+- Other GitHub accounts: :registered: https://github.com/smironescu
+
+## YOUTUBE (in progress)
+## Twitch (in progress)
+
 
 
 ## <a href="https://dev.to/xexiu"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" title="Dev.to Article" alt="Dev.to Article" width="35"/> </a> Dev.to Articles
 1. [Nested CSS was detected, but CSS nesting has not been configured correctly - Astro](https://dev.to/xexiu/nested-css-was-detected-but-css-nesting-has-not-been-configured-correctly-astro-392k)
 
+
+## Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/javascript.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg](https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/typescript.svg)" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/html5.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/css3.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg](https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/react.svg)" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/nextjs.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/nodejs.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/express.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/xexiu/165aca8fd3ee3d1b18323adc46a0e35f/raw/6f7a236f662ce68656bc7f7e83ac7942dbcd9dcc/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
+
+## Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/xexiu"><img src="https://github-readme-stats.vercel.app/api?username=xexiu&show_icons=true&hide=contribs&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" alt="xexiu's GitHub stats" /></a>
 
 ## Buy me a coffee!
 
