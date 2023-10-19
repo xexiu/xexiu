@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Web: [smironescu](https://smironescu.herokuapp.com/)
+- Web: [smironescu](https://xexiu.netlify.app/)
 - 📫 How to reach me: sergiu.mironescu@gmail.com
 - Other GitHub accounts: https://github.com/smironescu
 
