@@ -17,7 +17,7 @@ I'm a passionate Full Stack Developer with expertise in a wide array of technolo
 - Other GitHub accounts: https://github.com/smironescu
 
 --
-## <a href="https://dev.to/xexiu"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" title="Dev.to Article" alt="Dev.to Article" width="35"/></a> Dev.to Articles
+## <a href="https://dev.to/xexiu"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" title="Dev.to Article" alt="Dev.to Article" width="35"/> </a> Dev.to Articles
 1. [Nested CSS was detected, but CSS nesting has not been configured correctly - Astro](https://dev.to/xexiu/nested-css-was-detected-but-css-nesting-has-not-been-configured-correctly-astro-392k)
 --
 
