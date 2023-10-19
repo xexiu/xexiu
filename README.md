@@ -16,13 +16,14 @@ I'm a passionate Full Stack Developer with expertise in a wide array of technolo
 - 📫 How to reach me: sergiu.mironescu@gmail.com
 - Other GitHub accounts: https://github.com/smironescu
 
-<a style="color: #000 !important; text-decoration: none !important" href="https://dev.to/xexiu"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" title="Dev.to Article" alt="Dev.to Article" width="35"/>Dev.to Articles</a>
+--
+## <a href="https://dev.to/xexiu"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" title="Dev.to Article" alt="Dev.to Article" width="35"/></a> Dev.to Articles
 1. [Nested CSS was detected, but CSS nesting has not been configured correctly - Astro](https://dev.to/xexiu/nested-css-was-detected-but-css-nesting-has-not-been-configured-correctly-astro-392k)
-
+--
 
 ## Buy me a coffee!
 
-<a href="https://www.buymeacoffee.com/fahimbinamin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/xexiu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!--
 **xexiu/xexiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
