@@ -1,12 +1,12 @@
 # Hello there 👋
 <p align="left">
-         <a href="https://github.com/xexiu?tab=followers">
+         <a href="https://github.com/xexiu?tab=followers" target="_blank">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/xexiu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/xexiu?tab=repositories&sort=stargazers">
+      <a href="https://github.com/xexiu?tab=repositories&sort=stargazers" target="_blank">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/xexiu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://www.youtube.com/@smironescu?sub_confirmation=1">
+      <a href="https://www.youtube.com/@smironescu?sub_confirmation=1" target="_blank">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCAgzqRPN6DBcoy8MxHGPETA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://github.com/xexiu">
+      <a href="https://github.com/xexiu" target="_blank">
          <img src="https://komarev.com/ghpvc/?username=xexiu&style=for-the-badge">
    </p>
 
